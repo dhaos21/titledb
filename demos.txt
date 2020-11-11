@@ -14,7 +14,7 @@ id|isDemo|region|name
 010004F00F236000|1|GB|Mario & Sonic at the Olympic Games Tokyo 2020
 010005800DEF0000|1|JP|スーパーロボット大戦T
 010005800F46E000|1|US|Ori and the Blind Forest: Definitive Edition
-010005900E520000|1|GB|Word Wheel by POWGI
+010005900E520000|1|US|Word Wheel by POWGI
 010005D0079F8000|1|US|Robonauts
 010006100C050000|1|US|Swim Out
 010006D00FF34000|1|US|Invisigun Reloaded
@@ -31,12 +31,12 @@ id|isDemo|region|name
 01000D5011794000|1|JP|Eスクールライフ
 01000D7005E28000|1|US|Spelunker Party!
 01000DA00F026000|1|US|Our Flick Erasers
-01000DC003740000|1|US|Puyo Puyo Tetris
+01000DC003740000|1|US|Puyo Puyo™ Tetris®
 01000DC00EBBE000|1|US|DAEMON X MACHINA™ 
 01000E700D5CE000|1|US|SCRAP RUSH!!
 01000EB01023E000|1|US|Blossom Tales: The Sleeping King
 01000EF00E3C2000|1|JP|机でボウリング
-01000F300DAB2000|1|GB|Oh!Edo Towns
+01000F300DAB2000|1|US|Oh!Edo Towns
 01001020101E2000|1|JP|バーガータイムパーティー
 010010A00DB72000|1|US|Airfield Mania
 0100111010068000|1|US|Torchlight II
@@ -109,7 +109,7 @@ id|isDemo|region|name
 01002EB00CE48000|1|JP|ノラと皇女と野良猫ハート HD
 01002FC00B694000|1|US|Fill-a-Pix: Phil's Epic Adventure
 0100302010338000|1|US|Blasphemous
-010030D005AE6000|1|GB|Pokkén Tournament DX
+010030D005AE6000|1|US|Pokkén Tournament DX
 010031C0122B0000|1|US|Active Neurons 2
 010033200C50E000|1|JP|添いカノ ～ぎゅっと抱きしめて～
 010033A012B1A000|1|JP|AVICII Invector
@@ -200,7 +200,7 @@ id|isDemo|region|name
 010062200CF14000|1|US|Cinderella - An Interactive Fairytale
 010062600D236000|1|US|The Path of Motus
 010062F00CAE2000|1|US|Art of Balance
-0100631008244000|1|GB|Pixel Action Heroes
+0100631008244000|1|US|Pixel Action Heroes
 0100634011250000|1|US|Overdriven Reloaded: Special Edition
 010063800FCDC000|1|US|Jet Kave Adventure
 0100644008454000|1|US|Slime-san
@@ -211,7 +211,7 @@ id|isDemo|region|name
 010065D00E2FE000|1|JP|絶体絶命都市４Plus -Summer Memories- for Nintendo Switch
 0100669004754000|1|JP|プランテラ ガーデンライフ DXエディション
 010066F009524000|1|US|Ultra Space Battle Brawl
-0100671010694000|1|GB|Voxel Galaxy
+0100671010694000|1|US|Voxel Galaxy
 01006710122CE000|1|US|Aeolis Tournament
 010067300AFFA000|1|US|EARTHLOCK
 010068000DE92000|1|US|Gabbuchi
@@ -225,7 +225,7 @@ id|isDemo|region|name
 01006B700EA6A000|1|US|Automachef
 01006BB0091F4000|1|JP|迷宮の塔　トレジャーダンジョン
 01006E30099B8000|1|US|Pic-a-Pix Deluxe
-01006E50094E6000|1|JP|forma.8
+01006E50094E6000|1|US|forma.8
 01006E500BE94000|1|JP|シフトクアンタム Shift Quantum
 01006E600F8D8000|1|US|AeternoBlade II
 01006EE00AE38000|1|US|Shining Resonance Refrain
@@ -255,7 +255,7 @@ id|isDemo|region|name
 010079300D508000|1|US|SUPER DRAGON BALL HEROES WORLD MISSION
 010079A0119CA000|1|JP|イヌワシ～うらぶれ探偵とお嬢様刑事の池袋事件ファイル～
 010079A01219C000|1|US|Dangerous Relationship
-01007A300C856000|1|GB|Xenon Valkyrie+
+01007A300C856000|1|US|Xenon Valkyrie+
 01007A60125F2000|1|US|Mad Rat Dead
 01007B200E7D0000|1|US|Domiverse
 01007BE00FE58000|1|US|Desktop Dodgeball
@@ -315,7 +315,7 @@ id|isDemo|region|name
 010094E00E018000|1|US|Monster Puzzle
 010095A00D316000|1|JP|フォーゴットン・アン
 010095B00AA38000|1|US|MONOPOLY® for Nintendo Switch™
-010096000B3EA000|1|GB|OCTOPATH TRAVELER
+010096000B3EA000|1|US|Octopath Traveler™
 010096000EB10000|1|GB|Voxel Sword
 010096E008BAA000|1|JP|ハッピーバースデイズ
 010096E00CD08000|1|JP|ゾイドワイルド　キング オブ ブラスト
@@ -367,13 +367,13 @@ id|isDemo|region|name
 0100AA20125D6000|1|US|Cris Tales
 0100AA800E7E8000|1|US|The Mystery of Woolley Mountain
 0100AB400C5A4000|1|JP|ネコ・トモ
-0100ACB00F72A000|1|GB|The Tenth Line Special Edition
+0100ACB00F72A000|1|US|The Tenth Line Special Edition
 0100ACC00A56E000|1|US|Midnight Deluxe
 0100ACD012B06000|1|JP|妖怪学園Y ～ワイワイ学園生活～
 0100AD40128B8000|1|US|Hypnospace Outlaw
 0100AD8010538000|1|JP|Voxel Galaxy（ボクセルギャラクシー）
 0100ADA00BE3C000|1|US|INSTANT TENNIS
-0100AE800C9C6000|1|GB|Yoshi´s Crafted World
+0100AE800C9C6000|1|US|Yoshi´s Crafted World
 0100AEE012104000|1|US|My Bewitching Perfume
 0100AF100CAF6000|1|JP|リプキス
 0100AFB00DAC0000|1|JP|LITTLE FRIENDS -DOGS & CATS-（リトルフレンズ　ドッグス＆キャッツ）
@@ -389,9 +389,9 @@ id|isDemo|region|name
 0100B5401217C000|1|US|My Butler
 0100B56010A34000|1|JP|ボクらのスクールバトル
 0100B5D011390000|1|JP|ピクセル クロス アドベンチャー
-0100B6801137E000|1|US|Bravely Default™ II Demo
+0100B6801137E000|1|US|Bravely Default™ II
 0100B6B012FF4000|1|US|Birds and Blocks
-0100B7200E02E000|1|US|BOXBOY! + BOXGIRL!
+0100B7200E02E000|1|US|BOXBOY! + BOXGIRL!™
 0100B720103EE000|1|US|Skybolt Zack
 0100B7B009532000|1|US|Super Chariot
 0100B7E00E026000|1|US|Super Mega Baseball 2: Ultimate Edition
@@ -444,7 +444,7 @@ id|isDemo|region|name
 0100D1700992E000|1|JP|がるメタる！
 0100D240104E2000|1|JP|Ghostbusters: The Video Game Remastered
 0100D2600DA50000|1|US|Robothorium
-0100D3000AEC2000|1|GB|Baobabs Mausoleum Ep.1: Ovnifagos Don´t Eat Flamingos
+0100D3000AEC2000|1|US|Baobabs Mausoleum Ep.1: Ovnifagos Don´t Eat Flamingos
 0100D3000E8C8000|1|US|My Big Sister
 0100D35010284000|1|JP|プリティ・プリンセス　マジカルコーディネート
 0100D3C011CA2000|1|US|Tangle Tower
@@ -458,7 +458,7 @@ id|isDemo|region|name
 0100D7700EDA0000|1|US|The Tower of Beatrice
 0100D7D00E2DA000|1|US|The Manga Works
 0100D8301239C000|1|US|Mr. DRILLER DrillLand
-0100D87002EE0000|1|GB|Snipperclips – Cut it out, together!
+0100D87002EE0000|1|US|Snipperclips™ – Cut it out, together!
 0100D87012A14000|1|US|#womenUp, Super Puzzles Dream
 0100D8D01004C000|1|JP|映画 すみっコぐらし　とびだす絵本とひみつのコ　ゲームであそぼう！絵本の世界
 0100D9200D090000|1|US|Trials Rising Open Beta
@@ -538,7 +538,7 @@ id|isDemo|region|name
 0100F5E01116E000|1|JP|ブレイブリーデフォルトⅡ　先行体験版
 0100F6000BC6C000|1|US|DRAGON BALL FIGHTERZ - Open Beta
 0100F6400FD06000|1|JP|恋する乙女と守護の楯～薔薇の聖母～
-0100F7900EA7E000|1|GB|Hyperforma
+0100F7900EA7E000|1|US|Hyperforma
 0100F8200C5F0000|1|JP|すみっコぐらし　あつまれ！すみっコタウン
 0100F8A011396000|1|US|Grimvalor
 0100FA500B128000|1|US|Sushi Striker™: The Way of Sushido
@@ -591,7 +591,7 @@ id|isDemo|region|name
 0100E4F010D92000|1|JP|ペルソナ５ スクランブル　ザ ファントム ストライカーズ
 0100EF700FA36000|1|JP|AI: ソムニウム ファイル
 0100549013060000|1|US|KINGDOM HEARTS Melody of Memory
-010068F0131E4000|1|GB|Game Dev Tycoon
+010068F0131E4000|1|US|Game Dev Tycoon
 01005E901305E000|1|JP|KINGDOM HEARTS Melody of Memory
 0100AC4012418000|1|US|Kirby Fighters™ 2
 0100548011954000|1|US|ScourgeBringer
