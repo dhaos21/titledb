@@ -654,3 +654,8 @@ id|isDemo|region|name
 010065700EE06000|1|US|Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda
 010026800EA0A000|1|US|DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition
 010069800E060000|1|US|Doodle Mafia: Crime City
+010075100D450000|1|US|Collidalot
+010082700F2D2000|1|JP|DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition
+0100C2500B718000|1|US|Hyper Sentinel
+0100F9700BE96000|1|JP|Hyper Sentinel
+01006A900C686000|1|US|Just Dance® 2019
