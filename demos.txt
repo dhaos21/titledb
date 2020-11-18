@@ -700,5 +700,4 @@ id|isDemo|region|name
 01002C30136F4000|1|US|Ring of Pain
 0100C3D011C74000|1|JP|げっし～ず　森の小さななかまたち
 01002EF013B0E000|1|JP|すみっコぐらし　おへやのすみでたびきぶんすごろく
-010019000034A000|1|JP|カラオケJOYSOUND for Nintendo Switch
 0100D8B012AF4000|1|JP|恋する乙女と守護の楯Re:boot The "SHIELD-9"
