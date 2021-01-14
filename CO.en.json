@@ -2661,7 +2661,7 @@
             "ru",
             "ko"
         ],
-        "size": 12320768000
+        "size": 12421431296
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -4212,7 +4212,7 @@
             "zh",
             "zh"
         ],
-        "size": 6845104128
+        "size": 6866075648
     },
     "70010000018062": {
         "id": "0100EBB00D2F4000",
@@ -8598,6 +8598,38 @@
         "languages": null,
         "size": 3115319296,
         "parentId": "0100F4C009322000"
+    },
+    "70030000012477": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012477,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1668284416,
+        "parentId": "0100EAE010560000"
     },
     "70030000012478": {
         "id": null,
@@ -21441,7 +21473,10 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bc3e879baa78bcd044e7759de918b88f4ff39a0a072a5e072ee2f0eb5f71f356.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/496f604d552baba75a79d7cab65dbd8c26161cd0d7b8d357a69d162c0b8c8e00.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02ebc11d42315b74c2624527bc78978663c72fe35e7a051e3e28a82556adcbd7.jpg",
         "intro": null,
         "description": "The Character Pass adds 9 characters that can be used in Captain Tsubasa: Rise of New Champions.\n\nCharacter Pass Bonus:\n- New Champions Uniform Set",
