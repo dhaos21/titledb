@@ -998,7 +998,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45a131c42a6c4d0923f738d6393f034a0daca4f280e17c8f193cee151921c7d8.jpg",
         "intro": "Evil is watching",
-        "description": "The beginning of the Resident Evil Revelations 2 tale sees fan favorite Claire Redfield make a dramatic return. Survivor of the Raccoon City incident depicted in previous Resident Evil games, Claire now works for the anti-bioterrorism organization Terra Save. Moira Burton, is attending her welcome party for Terra Save when unknown armed forces storm the office. Claire and Moira are knocked unconscious and awaken later to find themselves in a dark and abandoned detention facility. Working together, they must find out who took them and to what sinister end. Will Claire and Moira make it out alive and discover what\u2019s led to them being taken to this remote island? A story of twists and turns will have players guessing the next step at every turn.\n\nEnhance your gameplay experience even further with additional motion controls that let you aim and wield your weapons with greater accuracy on the Nintendo Switch.",
+        "description": "The beginning of the Resident Evil Revelations 2 tale sees fan favorite Claire Redfield make a dramatic return. Survivor of the Raccoon City incident depicted in previous Resident Evil games, Claire now works for the anti-bioterrorism organization Terra Save. Moira Burton, is attending her welcome party for Terra Save when unknown armed forces storm the office. Claire and Moira are knocked unconscious and awaken later to find themselves in a dark and abandoned detention facility. Working together, they must find out who took them and to what sinister end. Will Claire and Moira make it out alive and discover what\u2019s led to them being taken to this remote island? A story of twists and turns will have players guessing the next step at every turn.\n\nEnhance your gameplay experience even further with additional motion controls that let you aim and wield your weapons with greater accuracy on the Nintendo Switch\u2122.",
         "languages": [
             "ja",
             "en",
@@ -6428,7 +6428,7 @@
             "pt",
             "fr"
         ],
-        "size": 14684258304
+        "size": 14675869696
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -6739,7 +6739,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e45b639f68ff7cb111025210a223e833618cddc1c9d274e1b7f1eb4455f76d8d.jpg",
         "intro": "Exit the Gungeon is a small, spin-off 'dungeon climber' immediately following the adventures of the misfit Gungeoneers.",
-        "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces\u2026 and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
+        "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces\u00e2\u20ac\u00a6 and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
         "languages": [
             "ja",
             "en",
@@ -7501,7 +7501,7 @@
             "zh",
             "zh"
         ],
-        "size": 7402946560
+        "size": 7401897984
     },
     "70010000030293": {
         "id": "0100B6801137E000",
@@ -8921,6 +8921,37 @@
         "languages": null,
         "size": 2284847104,
         "parentId": "0100073011382000"
+    },
+    "70030000012712": {
+        "id": null,
+        "rightsId": null,
+        "name": "FUSER\u2122 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000012712,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1737490432,
+        "parentId": "0100E1F013674000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -19155,6 +19186,36 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000023664": {
+        "id": "0100E1F013675001",
+        "rightsId": null,
+        "name": "Dua Lipa - \"New Rules\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210121,
+        "nsuId": 70050000023664,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/add886c033fc0a47fc606f1d4876576a4329360bf83cf631d4840cecedc40714.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"New Rules\" by Dua Lipa! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
+    },
     "70050000023829": {
         "id": "01004A600EC0B001",
         "rightsId": null,
@@ -21930,7 +21991,7 @@
         "intro": "Super plays clash in soccer action game Captain Tsubasa!",
         "description": "The Deluxe Edition includes:\n- Captain Tsubasa: Rise of New Champions (full game)\n- Character Pass\n\nDeluxe Edition Bonus:\n- V Jump accessories\n\nCaptain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.",
         "languages": null,
-        "size": 14730395648
+        "size": 14722007040
     },
     "70070000010923": {
         "id": null,
